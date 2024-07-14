@@ -78,8 +78,8 @@ Cart is full
 5.Display cart items..
 6.Exit
 ------------------------------
-
 5
+
 Product number 1
 ************************************
 	Name of product is :Laptop
@@ -113,8 +113,8 @@ Product removed successfully
 5.Display cart items..
 6.Exit
 ------------------------------
-
 5
+
 Product number 1
 ************************************
 	Name of product is :Laptop
