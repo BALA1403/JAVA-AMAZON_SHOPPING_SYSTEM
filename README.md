@@ -13,6 +13,7 @@ OUTPUT FOR THE AMAZON CART MINI PROJECT:
 ![Screenshot (56)](https://github.com/user-attachments/assets/31927389-273c-4c99-8f6e-8f3e13b4b1fc)
 
 OUTPUT:
+
 Enter the cart size : 2
 ---------------------------
 1.Add Product
@@ -22,12 +23,14 @@ Enter the cart size : 2
 5.Display cart items..
 6.Exit
 ------------------------------
+
 1
 Enter name of product :Laptop
 Enter id of product :12345678
 Enter price of product :65999
 Product added successfully
 ---------------------------
+
 1.Add Product
 2.Remove Product
 3.Check Cart Empty??
@@ -35,12 +38,14 @@ Product added successfully
 5.Display cart items..
 6.Exit
 ------------------------------
+
 1
 Enter name of product :Mobile
 Enter id of product :7891011
 Enter price of product :29999
 Product added successfully
 ---------------------------
+
 1.Add Product
 2.Remove Product
 3.Check Cart Empty??
@@ -48,9 +53,11 @@ Product added successfully
 5.Display cart items..
 6.Exit
 ------------------------------
+
 3
 Cart is not empty
 ---------------------------
+
 1.Add Product
 2.Remove Product
 3.Check Cart Empty??
@@ -58,9 +65,11 @@ Cart is not empty
 5.Display cart items..
 6.Exit
 ------------------------------
+
 4
 Cart is full
 ---------------------------
+
 1.Add Product
 2.Remove Product
 3.Check Cart Empty??
@@ -68,6 +77,7 @@ Cart is full
 5.Display cart items..
 6.Exit
 ------------------------------
+
 5
 Product number 1
 ************************************
@@ -82,6 +92,7 @@ Product number 2
 	Product Price is :29999.0
 ************************************
 ---------------------------
+
 1.Add Product
 2.Remove Product
 3.Check Cart Empty??
@@ -89,9 +100,11 @@ Product number 2
 5.Display cart items..
 6.Exit
 ------------------------------
+
 2
 Product removed successfully
 ---------------------------
+
 1.Add Product
 2.Remove Product
 3.Check Cart Empty??
@@ -99,6 +112,7 @@ Product removed successfully
 5.Display cart items..
 6.Exit
 ------------------------------
+
 5
 Product number 1
 ************************************
@@ -107,6 +121,7 @@ Product number 1
 	Product Price is :65999.0
 ************************************
 ---------------------------
+
 1.Add Product
 2.Remove Product
 3.Check Cart Empty??
@@ -117,6 +132,7 @@ Product number 1
 2
 Product removed successfully
 ---------------------------
+
 1.Add Product
 2.Remove Product
 3.Check Cart Empty??
@@ -126,6 +142,7 @@ Product removed successfully
 ------------------------------
 5
 ---------------------------
+
 1.Add Product
 2.Remove Product
 3.Check Cart Empty??
@@ -136,6 +153,7 @@ Product removed successfully
 3
 Cart is empty
 ---------------------------
+
 1.Add Product
 2.Remove Product
 3.Check Cart Empty??
