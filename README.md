@@ -4,6 +4,8 @@ With the use of NetBeans idle, I created the small Java project named Amazon Car
 
 OUTPUT FOR THE AMAZON CART MINI PROJECT:
 ![Screenshot (49)](https://github.com/user-attachments/assets/adb26f92-83a5-406e-ae1e-4e2baecd7b58)
+![Screenshot (50)](https://github.com/user-attachments/assets/66fa77af-779d-438d-9d45-14c57e1301b7)
+
 
 
 Enter the cart size : 2
