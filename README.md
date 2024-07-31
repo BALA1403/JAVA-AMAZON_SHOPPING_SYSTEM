@@ -1,4 +1,4 @@
-﻿# JAVA-MINI-PROJECT01
+﻿# JAVA-PROJECT01
 
 With the use of NetBeans idle, I created the small Java project named Amazon Cart, and I've uploaded my code output below.
 
